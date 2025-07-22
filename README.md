@@ -4,7 +4,7 @@ A responsive and visually engaging weather application built using HTML, CSS, an
 
 ## 🔗 Live Demo
 
-👉 [Click here to try the live app](https://sneha.github.io/weather-app/)
+👉 [Click here to try the live app](https://iamsneha07.github.io/Weather-App-with-Live-Clock/)
 
 
 ## 🔍 Features
