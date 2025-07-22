@@ -2,6 +2,10 @@
 
 A responsive and visually engaging weather application built using HTML, CSS, and JavaScript. The app displays real-time weather data for any city, along with a live digital clock and a dynamic background fetched from the Pixabay API based on weather keywords.
 
+## 🔗 Live Demo
+
+👉 [Click here to try the live app](https://sneha.github.io/weather-app/)
+
 
 ## 🔍 Features
 
